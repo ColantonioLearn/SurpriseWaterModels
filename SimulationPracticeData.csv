@@ -1,0 +1,9 @@
+BlockNum,TrialID,Img1,Img2,Congruency,Score1,Score2,ResultsCategory,showInstr,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,resp.keys,resp.corr,resp.rt,empty_scala.started,empty_scala.stopped,response_img.started,response_img.stopped,ParticipantID,Bedingung,date,expName,psychopyVersion,frameRate
+Pre,1,B2l.jpg,H2r.jpg,ib,+,+,4,0,0,0,0,0,4,1,5.467.727.499.999.450,883.596.739.999.848,None,14.467.361.700.000.700,None,0,pre,2021_Aug_18_1536,concept,04.01.2021,6.005.093.520.221.830
+Pre,2,P1l.jpg,B3r.jpg,c,-,+,6,0,0,1,1,1,6,1,22.576.132.000.031.000,1.585.129.180.000.140,None,18.231.130.799.998.900,None,0,pre,2021_Aug_18_1536,concept,04.01.2021,6.005.093.520.221.830
+Pre,3,P2l.jpg,B1r.jpg,ib,+,-,2,0,0,2,2,2,3,0,2.112.995.800.001.950,19.649.831.099.999.500,None,2.198.028.239.999.980,None,0,pre,2021_Aug_18_1536,concept,04.01.2021,6.005.093.520.221.830
+Pre,4,H1l.jpg,P2r.jpg,ib,-,+,6,0,0,3,3,3,6,1,24.141.665.999.995.800,23.297.904.799.997.900,None,25.760.870.400.001.200,None,0,pre,2021_Aug_18_1536,concept,04.01.2021,6.005.093.520.221.830
+Pre,5,H1l.jpg,B1r.jpg,ib,+,+,6,0,0,4,4,4,4,0,1.146.408.299.999.160,2.724.525.469.999.930,None,28.509.718.400.000.500,None,0,pre,2021_Aug_18_1536,concept,04.01.2021,6.005.093.520.221.830
+Pre,6,B2l.jpg,H1r.jpg,c,+,-,2,0,0,5,5,5,2,1,15.018.569.999.992.900,29.928.160.700.001.100,None,3.155.809.220.000.080,None,0,pre,2021_Aug_18_1536,concept,04.01.2021,6.005.093.520.221.830
+Pre,7,P3l.jpg,B3r.jpg,ib,+,+,4,0,0,6,6,6,4,1,1.474.671.699.997.990,32.977.053.099.999.400,None,3.450.725.070.000.040,None,0,pre,2021_Aug_18_1536,concept,04.01.2021,6.005.093.520.221.830
+Pre,8,H3l.jpg,P2r.jpg,c,+,-,2,0,0,7,7,7,3,0,23.770.177.000.005.700,3.599.139.379.999.900,None,3.850.550.310.000.100,None,0,pre,2021_Aug_18_1536,concept,04.01.2021,6.005.093.520.221.830
